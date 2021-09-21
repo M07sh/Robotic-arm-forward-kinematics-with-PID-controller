@@ -1,0 +1,2 @@
+# Robotic-arm-forward-kinematics-with-PID-controller
+This is a 3 DOF forward kinematics Robotic Arm project. The robotic arm has 3 DC motors that are being controlled using encoders. PID controller is used to ensure the accuracy of the resultant position. Basically, the project is all about Determining the resultant position of the effector by the given joint angles and links length of the robot. The project uses Arduino Mega as the microcontroller. The resultant position is tested against a previosuly manual calculated positions. 
